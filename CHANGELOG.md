@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.8.3](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck/compare/v3.8.2...v3.8.3) (2025-02-18)
+
+
+### Bug Fixes
+
+* use correct home folder for user ([76466fd](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck/commit/76466fdcc6f5473dc004aec365a4c58a9057eeee))
+
 ## [3.8.2](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck/compare/v3.8.1...v3.8.2) (2024-08-06)
 
 
